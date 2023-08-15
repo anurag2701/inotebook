@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-
+*iNotebook*
+Backend is in /backend
+Frontend in /
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
